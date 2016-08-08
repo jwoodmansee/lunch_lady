@@ -76,3 +76,4 @@ class LunchMenu
 end
 
 lunch = LunchMenu.new
+
